@@ -1,0 +1,15 @@
+{
+    "dependencies": {
+      "com.eflatun.codepatterns": "0.0.1"
+    },
+    "scopedRegistries": [
+      {
+        "name": "Open UPM",
+        "url": "https://package.openupm.com",
+        "scopes": [
+          "com.eflatun.codepatterns"
+        ]
+      }
+    ]
+  }
+  
