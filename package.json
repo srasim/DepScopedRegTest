@@ -1,0 +1,25 @@
+{
+    "name": "com.rasim.depscopedregtest",
+    "version": "1.0.0",
+    "displayName": "DepScopedRegTest",
+    "description": "This is an example package",
+
+    "dependencies": {
+        "com.eflatun.codepatterns": "0.0.1"
+   },
+
+   "scopedRegistries": [
+    {
+      "name": "package.openupm.com",
+      "url": "https://package.openupm.com",
+      "scopes": [
+        "com.eflatun.codepatterns"
+      ]
+    }  
+  ],
+   
+    "author": {
+      "name": "Rasim"
+    }
+  }
+  
