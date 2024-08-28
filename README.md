@@ -1,0 +1,1 @@
+Test package for custom package that has scoped registry. -Open UPM-
